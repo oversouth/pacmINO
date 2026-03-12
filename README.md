@@ -48,3 +48,5 @@ Select your board (**Tools → Board**) and port (**Tools → Port**), then hit 
 - 3 lives
 - Best time saved to EEPROM
 - Menu + credits screen
+
+> NO GENERATIVE AI WAS USED FOR CODE,GENERATIVE AI USED FOR DOCUMENTATION
