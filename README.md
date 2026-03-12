@@ -2,7 +2,6 @@
 # PacmINO — Pac-Man® on Arduino!
 ![Tested on Arduino Uno](https://img.shields.io/badge/Tested%20on-Arduino%20Uno-blue)
 ![Tested on Arduino Nano](https://img.shields.io/badge/Tested%20on-Arduino%20Nano-green)
-A Pac-Man clone for Arduino with ghost AI, power-ups, lives, best-time saving, and a menu screen — all on a tiny 128x64 OLED.
 ## How to setup
 ### Requirements
 * 30–60 minutes of time
